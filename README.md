@@ -52,4 +52,4 @@ The Live Polling Application is a real-time polling system designed for classroo
 
 ## Contact
 
-For any inquiries or feedback, please contact [dhirajudhani870@gmail.com].
+For any inquiries or feedback, please contact [utkarsh15gupta@gmail.com].
